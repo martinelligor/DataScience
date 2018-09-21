@@ -1,2 +1,4 @@
 # DataScience
-Repositório utilizado na disciplina de Ciência de Dados do ICMC-USP
+Repository used for the discipline of Data Science at the ICMC-USP
+
+
